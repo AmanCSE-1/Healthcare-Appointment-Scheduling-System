@@ -1,0 +1,59 @@
+@charset "ISO-8859-1";
+
+body{
+    background-color:  #FCFAF9;
+}
+
+.navbar{
+    background-color: #2c365e;
+}
+
+.my-card{
+    background-color:#7eddff;  
+}
+
+.my-card-img{
+    text-align: center;
+}
+
+.card-img{
+    max-height: 200px;
+    max-width: 200px;
+}
+
+.my-ratings div{
+    padding-top: 8vw;
+}
+
+.my-ratings i{
+    color: #E83151;
+}
+
+.table{
+    text-align: center;
+    background-color: #96cdff;
+}
+
+footer{
+    background-color: #383838;
+    padding: 1rem 2rem 3rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+ul.social{
+    list-style-type: none;
+    display: flex;
+    max-width: 16rem;
+}
+
+ul.social li {
+    margin: 0 auto;
+}
+
+.socket{
+    background-color: #383838;
+}
