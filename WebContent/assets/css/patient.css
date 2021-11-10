@@ -1,0 +1,121 @@
+body{
+    background-color: #FCFAF9;
+    overflow-x: hidden;
+}
+
+.navbar{
+    background-color: #2c365e;
+}
+
+.formdoc{
+    background-color: d1e0e0;
+	margin-left: 35px;
+	width: 250px;
+	border: 1px solid #00001a;
+
+}
+
+.btnss{
+	background-color: #E83151;
+	width: 90px;
+	border: 1px solid #00001a;
+}
+
+.dropdown .btnf{
+	background-color: #d1e0e0;
+	margin-left: 5px;
+	border: 1px solid #00001a;
+}
+
+.dropdown .mynew{
+	background-color: #f5f5f0;
+	border: 2px solid #00001a;
+}
+
+.dropdown .mynew button{
+	color: #00001a;
+}
+
+.dropdown .mynew button:hover{
+	background-color: #00001a;
+	color: white;
+}
+
+.my-card{
+    margin: auto;
+    margin-top: 30px;
+    background-color:#C1E3F7;
+}
+
+.my-card h5{
+    color: #051723;
+}
+
+.my-card p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#124e78;
+}
+
+.card-img{
+    height: 150px;
+    width: 150px;
+}
+
+.box [type="button"]{
+    margin: 10px;
+    border: none;
+}
+
+.my-card i{
+    color: #E83151;
+}
+
+.my-app{
+    background-color: #1C5D99;
+    color: white;
+    padding-top: 20px;
+}
+
+.my-app h3{
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.my-app i{
+    margin-left: 12px;
+}
+
+.card{
+    margin-top: 25px;
+    margin-left: 10%;
+    background-color: #E83151;
+}
+
+.my-d{
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #383838;
+    padding: 1rem 2rem 3rem;
+}
+
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+ul.social{
+    list-style-type: none;
+    display: flex;
+    max-width: 16rem;
+}
+
+ul.social li {
+    margin: 0 auto;
+}
+
+.socket{
+    background-color: #383838;
+}
