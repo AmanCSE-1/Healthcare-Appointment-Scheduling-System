@@ -1,3 +1,9 @@
+<img src="https://assets.skyfilabs.com/images/blog/health-management-system.webp" 
+     style="border-top-left-radius: 5px;
+            border-bottom-left-radius: 5px;
+            height: 440px;
+            width: 1020px;">
+
 # Healthcare-Appointment-Scheduling-System
 
  * The Online  Appointment  Scheduling  System  can  be  implemented  in  hospitals,  clinics, dispensaries, etc. The System has the potential to increase the accessibility of a general practice, by offering the patients an opportunity to schedule a doctor’s appointment fast and easily.
